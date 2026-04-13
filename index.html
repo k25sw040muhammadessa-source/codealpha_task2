@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Chatbot - Interactive Communication</title>
+    <link rel="stylesheet" href="web/css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="chatbot-header">
+            <h1>🤖 AI Chatbot Assistant</h1>
+            <p>Powered by Arija Natural Language Processing</p>
+        </div>
+
+        <div class="chat-container">
+            <div id="chatMessages" class="chat-messages">
+                <div class="message bot-message">
+                    <span class="bot-label">Bot:</span>
+                    <div class="message-content">Hello! I'm your AI assistant. Ask me anything about our services or
+                        common questions!</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="input-container">
+            <input type="text" id="userInput" class="message-input" placeholder="Type your message and press Enter..."
+                autocomplete="off">
+            <button id="sendBtn" class="send-button">Send</button>
+        </div>
+
+        <div class="status-bar">
+            <span id="status" class="status-indicator">Ready</span>
+            <span id="connectionStatus" class="connection-status">🟢 Connected</span>
+        </div>
+    </div>
+
+    <script src="web/js/chatbot.js"></script>
+</body>
+
+</html>

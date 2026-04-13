@@ -1,0 +1,20 @@
+Q: What is your company?|A: We are an innovative tech company providing cutting-edge AI solutions.
+Q: What services do you offer?|A: We offer AI chatbots, natural language processing, machine learning solutions, and data analytics.
+Q: How can I contact support?|A: You can reach our support team at support@example.com or call us at 1-800-AI-HELP.
+Q: What are your business hours?|A: Our team is available Monday to Friday, 9 AM to 6 PM EST.
+Q: Do you offer free trial?|A: Yes! We offer a 30-day free trial for all our services.
+Q: How much does it cost?|A: Our pricing starts at $99 per month for basic plans. Custom enterprise solutions available.
+Q: Can I integrate with existing systems?|A: Absolutely! Our API is designed to integrate seamlessly with your existing infrastructure.
+Q: What programming languages do you support?|A: We support Java, Python, JavaScript, C#, and many other popular languages.
+Q: How long does implementation take?|A: Typical implementation takes 2-4 weeks depending on complexity.
+Q: Do you provide training?|A: Yes, we offer comprehensive onboarding and training for all users.
+Q: Is your service secure?|A: We use enterprise-grade security with AES-256 encryption and comply with GDPR.
+Q: What is your uptime guarantee?|A: We guarantee 99.9% uptime with 24/7 monitoring and support.
+Q: Can I use this offline?|A: Yes, our chatbot can run offline with cached FAQ data.
+Q: How do I get started?|A: Visit our website and sign up for a free account to get started immediately.
+Q: Do you offer API documentation?|A: Yes, extensive documentation is available on our developer portal.
+Q: What is your refund policy?|A: We offer a 30-day satisfaction guarantee with full refunds.
+Q: How do I reset my password?|A: Click 'Forgot Password' on the login page and follow the email instructions.
+Q: Can I customize the chatbot?|A: Yes, we offer full customization of responses, appearance, and behavior.
+Q: How does your AI learn?|A: Our AI uses machine learning to improve from user interactions and provides rule-based intelligent responses.
+Q: What data do you collect?|A: We only collect necessary data for improving services and comply with all privacy regulations.
